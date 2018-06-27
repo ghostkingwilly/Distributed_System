@@ -1,0 +1,3000 @@
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
+4
+MWIS: { 1 4 5 7 8 9 }
+Total Weight: 274
