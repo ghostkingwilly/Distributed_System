@@ -1,9 +1,9 @@
 # Distributed System 
 
-* Instructor : Li-Hsing Yen 嚴力行
-
-* @ NCTU
-* 106-Fall
+## Information
+* Course in National Chiao Tung University
+* Instructor : Li-Hsing Yen
+* Semester: Gaduated First, 1061
 
 ---
 
